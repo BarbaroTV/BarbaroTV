@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on<br>Desarrollar aplicaciones web utilizando ASP.NET Core y Angular para mejorar mis habilidades en el desarrollo full-stack.<br><br>I'm looking to collaborate on<br>Proyectos de código abierto relacionados con el desarrollo de aplicaciones .NET y Angular, especialmente aquellos que involucren tecnologías modernas y buenas prácticas de programación.<br><br>I'm looking for help with<br>Optimización de código en C# y mejores prácticas en el desarrollo de aplicaciones con Angular. También estoy interesado en aprender más sobre arquitectura de software y patrones de diseño.<br><br>I'm currently learning<br>C# avanzado, ASP.NET Core, Angular y conceptos de arquitectura de software como Clean Architecture y Domain-Driven Design (DDD).<br><br>Ask me about<br>Mis experiencias aprendiendo C#, mis proyectos actuales con .NET y Angular, y cualquier cosa relacionada con el desarrollo de aplicaciones web modernas.<br><br>
+Actualmente estoy trabajando en<br>Desarrollar aplicaciones web utilizando ASP.NET Core y Angular para mejorar mis habilidades en el desarrollo full-stack.<br><br>Busco colaborar en<br>Proyectos de código abierto relacionados con el desarrollo de aplicaciones .NET y Angular, especialmente aquellos que involucren tecnologías modernas y buenas prácticas de programación.<br><br>Busco ayuda con<br>Optimización de código en C# y mejores prácticas en el desarrollo de aplicaciones con Angular. También estoy interesado en aprender más sobre arquitectura de software y patrones de diseño.<br><br>Actualmente estoy aprendiendo<br>C# avanzado, ASP.NET Core, Angular y conceptos de arquitectura de software como Clean Architecture y Domain-Driven Design (DDD).<br><br>Ask me about<br>Mis experiencias aprendiendo C#, mis proyectos actuales con .NET y Angular, y cualquier cosa relacionada con el desarrollo de aplicaciones web modernas.<br><br>
 
 
 # 💻 Tech Stack:
@@ -9,8 +9,6 @@ I'm currently working on<br>Desarrollar aplicaciones web utilizando ASP.NET Core
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BarbaroTV&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaroTV&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BarbaroTV&icon=0&color=0)](https://visitcount.itsvg.in)
